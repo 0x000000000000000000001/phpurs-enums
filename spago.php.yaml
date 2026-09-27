@@ -52,8 +52,6 @@ workspace:
       path: "../phpurs-datetime"
     effect:
       path: "../phpurs-effect"
-    enums:
-      path: "../phpurs-enums"
     exceptions:
       path: "../phpurs-exceptions"
     foldable-traversable:
